@@ -1,4 +1,4 @@
-# woofer
+# Woofer - Todo App
 
 A Flutter application.
 
